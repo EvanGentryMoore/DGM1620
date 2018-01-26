@@ -1,0 +1,34 @@
+<xsheet version="4.0">
+<settings>
+	<fps>24</fps>
+	<step>1</step>
+	<numbering>sequential</numbering>
+	<color>0</color>
+	<format>png</format>
+	<path>C:\Users\10832247\Documents</path>
+</settings>
+<audio>
+</audio>
+<layers cols="1">
+	<layer col="1" caption="Layer 1" dir="U:\2018_Spring\DGM1620\" color="0" visible="1">
+		<cel col="1" row="1" duration="1">Layer 1_0001.png</cel>
+		<cel col="1" row="2" duration="1">Layer 1_0002.png</cel>
+		<cel col="1" row="3" duration="1">Layer 1_0003.png</cel>
+		<cel col="1" row="4" duration="1">Layer 1_0004.png</cel>
+		<cel col="1" row="5" duration="1">Layer 1_0005.png</cel>
+		<cel col="1" row="6" duration="1">Layer 1_0006.png</cel>
+		<cel col="1" row="7" duration="1">Layer 1_0007.png</cel>
+		<cel col="1" row="8" duration="1">Layer 1_0008.png</cel>
+		<cel col="1" row="9" duration="1">Layer 1_0009.png</cel>
+		<cel col="1" row="10" duration="1">Layer 1_0010.png</cel>
+		<cel col="1" row="11" duration="1">Layer 1_0008.png</cel>
+		<cel col="1" row="12" duration="1">Layer 1_0007.png</cel>
+		<cel col="1" row="13" duration="1">Layer 1_0006.png</cel>
+		<cel col="1" row="14" duration="1">Layer 1_0005.png</cel>
+		<cel col="1" row="15" duration="1">Layer 1_0004.png</cel>
+		<cel col="1" row="16" duration="1">Layer 1_0003.png</cel>
+		<cel col="1" row="17" duration="1">Layer 1_0002.png</cel>
+		<cel col="1" row="18" duration="1">Layer 1_0001.png</cel>
+	</layer>
+</layers>
+</xsheet>
