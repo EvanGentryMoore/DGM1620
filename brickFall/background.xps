@@ -1,0 +1,31 @@
+<xsheet version="4.0">
+<settings>
+	<fps>24</fps>
+	<step>1</step>
+	<numbering>frame</numbering>
+	<color>0</color>
+	<format>png</format>
+	<path>C:\Users\10832247\Documents</path>
+</settings>
+<audio>
+</audio>
+<layers cols="2">
+	<layer col="1" caption="Layer 1" dir="C:\Users\10832247\Documents\GitRepos\DGM1620\brickFall\" color="0" visible="1">
+		<cel col="1" row="1" duration="86">Layer 1_0001.png</cel>
+	</layer>
+	<layer col="2" caption="Layer 2" dir="C:\Users\10832247\Documents\GitRepos\DGM1620\brickFall\" color="1" visible="1">
+		<cel col="2" row="1" duration="6">Layer 2_0001.png</cel>
+		<cel col="2" row="7" duration="7">Layer 2_0007.png</cel>
+		<cel col="2" row="14" duration="10">Layer 2_0014.png</cel>
+		<cel col="2" row="24" duration="12">Layer 2_0024.png</cel>
+		<cel col="2" row="36" duration="12">Layer 2_0036.png</cel>
+		<cel col="2" row="48" duration="12">Layer 2_0048.png</cel>
+		<cel col="2" row="60" duration="1">Layer 2_0060.png</cel>
+		<cel col="2" row="61" duration="2">Layer 2_0061.png</cel>
+		<cel col="2" row="63" duration="15">Layer 2_0063.png</cel>
+		<cel col="2" row="78" duration="4">Layer 2_0078.png</cel>
+		<cel col="2" row="82" duration="4">Layer 2_0082.png</cel>
+		<cel col="2" row="86" duration="1">Layer 2_0086.png</cel>
+	</layer>
+</layers>
+</xsheet>
