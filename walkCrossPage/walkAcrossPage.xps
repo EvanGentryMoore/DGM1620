@@ -1,0 +1,110 @@
+<xsheet version="4.0">
+<settings>
+	<fps>24</fps>
+	<step>1</step>
+	<numbering>sequential</numbering>
+	<color>0</color>
+	<format>png</format>
+	<path>C:\Users\10832247\Documents</path>
+</settings>
+<audio>
+</audio>
+<layers cols="1">
+	<layer col="1" caption="Layer 1" dir="C:\Users\10832247\Documents\GitRepos\DGM1620\walkCrossPage\" color="0" visible="1">
+		<cel col="1" row="1" duration="1">Layer 1_0001.png</cel>
+		<cel col="1" row="2" duration="1">Layer 1_0002.png</cel>
+		<cel col="1" row="3" duration="1">Layer 1_0003.png</cel>
+		<cel col="1" row="4" duration="1">Layer 1_0004.png</cel>
+		<cel col="1" row="5" duration="1">Layer 1_0005.png</cel>
+		<cel col="1" row="6" duration="1">Layer 1_0006.png</cel>
+		<cel col="1" row="7" duration="1">Layer 1_0007.png</cel>
+		<cel col="1" row="8" duration="1">Layer 1_0008.png</cel>
+		<cel col="1" row="9" duration="1">Layer 1_0009.png</cel>
+		<cel col="1" row="10" duration="1">Layer 1_0010.png</cel>
+		<cel col="1" row="11" duration="1">Layer 1_0011.png</cel>
+		<cel col="1" row="12" duration="1">Layer 1_0012.png</cel>
+		<cel col="1" row="13" duration="1">Layer 1_0013.png</cel>
+		<cel col="1" row="14" duration="1">Layer 1_0014.png</cel>
+		<cel col="1" row="15" duration="1">Layer 1_0015.png</cel>
+		<cel col="1" row="16" duration="1">Layer 1_0016.png</cel>
+		<cel col="1" row="17" duration="1">Layer 1_0017.png</cel>
+		<cel col="1" row="18" duration="1">Layer 1_0018.png</cel>
+		<cel col="1" row="19" duration="1">Layer 1_0019.png</cel>
+		<cel col="1" row="20" duration="1">Layer 1_0020.png</cel>
+		<cel col="1" row="21" duration="1">Layer 1_0021.png</cel>
+		<cel col="1" row="22" duration="1">Layer 1_0022.png</cel>
+		<cel col="1" row="23" duration="1">Layer 1_0023.png</cel>
+		<cel col="1" row="24" duration="1">Layer 1_0024.png</cel>
+		<cel col="1" row="25" duration="1">Layer 1_0025.png</cel>
+		<cel col="1" row="26" duration="1">Layer 1_0026.png</cel>
+		<cel col="1" row="27" duration="1">Layer 1_0027.png</cel>
+		<cel col="1" row="28" duration="1">Layer 1_0028.png</cel>
+		<cel col="1" row="29" duration="1">Layer 1_0029.png</cel>
+		<cel col="1" row="30" duration="1">Layer 1_0030.png</cel>
+		<cel col="1" row="31" duration="1">Layer 1_0031.png</cel>
+		<cel col="1" row="32" duration="1">Layer 1_0032.png</cel>
+		<cel col="1" row="33" duration="1">Layer 1_0033.png</cel>
+		<cel col="1" row="34" duration="1">Layer 1_0034.png</cel>
+		<cel col="1" row="35" duration="1">Layer 1_0035.png</cel>
+		<cel col="1" row="36" duration="1">Layer 1_0036.png</cel>
+		<cel col="1" row="37" duration="1">Layer 1_0037.png</cel>
+		<cel col="1" row="38" duration="1">Layer 1_0038.png</cel>
+		<cel col="1" row="39" duration="1">Layer 1_0039.png</cel>
+		<cel col="1" row="40" duration="1">Layer 1_0040.png</cel>
+		<cel col="1" row="41" duration="1">Layer 1_0041.png</cel>
+		<cel col="1" row="42" duration="1">Layer 1_0042.png</cel>
+		<cel col="1" row="43" duration="1">Layer 1_0043.png</cel>
+		<cel col="1" row="44" duration="1">Layer 1_0044.png</cel>
+		<cel col="1" row="45" duration="1">Layer 1_0045.png</cel>
+		<cel col="1" row="46" duration="1">Layer 1_0046.png</cel>
+		<cel col="1" row="47" duration="1">Layer 1_0047.png</cel>
+		<cel col="1" row="48" duration="1">Layer 1_0048.png</cel>
+		<cel col="1" row="49" duration="1">Layer 1_0049.png</cel>
+		<cel col="1" row="50" duration="1">Layer 1_0050.png</cel>
+		<cel col="1" row="51" duration="1">Layer 1_0051.png</cel>
+		<cel col="1" row="52" duration="1">Layer 1_0052.png</cel>
+		<cel col="1" row="53" duration="1">Layer 1_0053.png</cel>
+		<cel col="1" row="54" duration="1">Layer 1_0054.png</cel>
+		<cel col="1" row="55" duration="1">Layer 1_0055.png</cel>
+		<cel col="1" row="56" duration="1">Layer 1_0056.png</cel>
+		<cel col="1" row="57" duration="1">Layer 1_0057.png</cel>
+		<cel col="1" row="58" duration="1">Layer 1_0058.png</cel>
+		<cel col="1" row="59" duration="1">Layer 1_0059.png</cel>
+		<cel col="1" row="60" duration="1">Layer 1_0060.png</cel>
+		<cel col="1" row="61" duration="1">Layer 1_0061.png</cel>
+		<cel col="1" row="62" duration="1">Layer 1_0062.png</cel>
+		<cel col="1" row="63" duration="1">Layer 1_0063.png</cel>
+		<cel col="1" row="64" duration="1">Layer 1_0064.png</cel>
+		<cel col="1" row="65" duration="1">Layer 1_0065.png</cel>
+		<cel col="1" row="66" duration="1">Layer 1_0066.png</cel>
+		<cel col="1" row="67" duration="1">Layer 1_0067.png</cel>
+		<cel col="1" row="68" duration="1">Layer 1_0068.png</cel>
+		<cel col="1" row="69" duration="1">Layer 1_0069.png</cel>
+		<cel col="1" row="70" duration="1">Layer 1_0070.png</cel>
+		<cel col="1" row="71" duration="1">Layer 1_0071.png</cel>
+		<cel col="1" row="72" duration="1">Layer 1_0072.png</cel>
+		<cel col="1" row="73" duration="1">Layer 1_0073.png</cel>
+		<cel col="1" row="74" duration="1">Layer 1_0074.png</cel>
+		<cel col="1" row="75" duration="1">Layer 1_0075.png</cel>
+		<cel col="1" row="76" duration="1">Layer 1_0076.png</cel>
+		<cel col="1" row="77" duration="1">Layer 1_0077.png</cel>
+		<cel col="1" row="78" duration="1">Layer 1_0078.png</cel>
+		<cel col="1" row="79" duration="1">Layer 1_0079.png</cel>
+		<cel col="1" row="80" duration="1">Layer 1_0080.png</cel>
+		<cel col="1" row="81" duration="1">Layer 1_0081.png</cel>
+		<cel col="1" row="82" duration="1">Layer 1_0082.png</cel>
+		<cel col="1" row="83" duration="1">Layer 1_0083.png</cel>
+		<cel col="1" row="84" duration="1">Layer 1_0084.png</cel>
+		<cel col="1" row="85" duration="1">Layer 1_0085.png</cel>
+		<cel col="1" row="86" duration="1">Layer 1_0086.png</cel>
+		<cel col="1" row="87" duration="1">Layer 1_0087.png</cel>
+		<cel col="1" row="88" duration="1">Layer 1_0088.png</cel>
+		<cel col="1" row="89" duration="1">Layer 1_0089.png</cel>
+		<cel col="1" row="90" duration="1">Layer 1_0090.png</cel>
+		<cel col="1" row="91" duration="1">Layer 1_0091.png</cel>
+		<cel col="1" row="92" duration="1">Layer 1_0092.png</cel>
+		<cel col="1" row="93" duration="1">Layer 1_0093.png</cel>
+		<cel col="1" row="94" duration="1">Layer 1_0094.png</cel>
+	</layer>
+</layers>
+</xsheet>
